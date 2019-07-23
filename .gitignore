@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/TreeEditTestApp/App_Data
+/TreeEditTestApp/bin
+/TreeEditTestApp.Contracts/bin/Debug
+/TreeEditTestApp.Contracts/obj/Debug
+/TreeEditTestApp.Data/bin/Debug
+/TreeEditTestApp.Data/obj/Debug
+/TreeEditTestApp.DataModel/bin/Debug
+/TreeEditTestApp.DataModel/obj/Debug
+/TreeEditTestApp.Services/bin/Debug
+/TreeEditTestApp.Services/obj/Debug
